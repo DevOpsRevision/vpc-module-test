@@ -1,0 +1,13 @@
+# Terraform state
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform/
+
+# Terraform lock file only if you intentionally want to ignore it
+# .terraform.lock.hcl
+
+# Common unnecessary files
+*.log
+*.tmp
+.DS_Store
