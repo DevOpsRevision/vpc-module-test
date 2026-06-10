@@ -5,7 +5,7 @@ crash.log
 .terraform/
 
 # Terraform lock file only if you intentionally want to ignore it
-# .terraform.lock.hcl
+.terraform.lock.hcl
 
 # Common unnecessary files
 *.log
